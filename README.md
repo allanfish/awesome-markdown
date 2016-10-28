@@ -29,7 +29,7 @@ A curated list of awesome Markdown tools
 ## Markdown Editors
 *Markdown Editors for various platforms.*
 ###Online Markdown Editors
-* [Dillinger](http://dillinger.io/)
+* [dillinger: @allanfish](http://dillinger.io/)
 * [StackEdit](https://stackedit.io/)
 * [Markable](http://markable.in/)
 * [Markdown Viewer](http://www.markdownviewer.com/)
